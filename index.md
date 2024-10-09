@@ -1,6 +1,11 @@
 # Learning Markdown Language
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```python
-def hello_world():
-    print("Hello, World!")
+ ```javascript
+   function add(a, b) {
+       return a + b;
+   }
+```
+- [x] Complete the GitHub introduction course
+- [ ] Create my first pull request
+- [ ] Merge my pull request into the main branch
 
